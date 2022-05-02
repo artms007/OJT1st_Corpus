@@ -1,0 +1,1 @@
+print("Teru Teru Teruchi^-^")
