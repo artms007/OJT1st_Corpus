@@ -1,1 +1,1 @@
-print("Teru Teru Teruchi^-^")
+print("Teru Teru Teruchi^-^!")
